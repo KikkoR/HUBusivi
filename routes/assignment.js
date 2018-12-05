@@ -146,4 +146,6 @@ router.delete('/assignment/:assignmentId', (req,res) =>{
     }
 })*/
 
+//assignment/avg
+
 module.exports = router

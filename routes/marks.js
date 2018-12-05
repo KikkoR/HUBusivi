@@ -106,6 +106,5 @@ usersRoutes.get('/:couseId', (req,res,next) => {
 	});
 });
 
-//
 
 module.exports = usersRoutes;
